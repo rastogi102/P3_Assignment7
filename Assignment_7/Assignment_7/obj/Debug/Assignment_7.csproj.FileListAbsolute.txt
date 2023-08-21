@@ -1,0 +1,8 @@
+F:\Training Stuff\Database_ASP.NET\Assignments\7\Assignment_7\Assignment_7\bin\Debug\Assignment_7.exe.config
+F:\Training Stuff\Database_ASP.NET\Assignments\7\Assignment_7\Assignment_7\bin\Debug\Assignment_7.exe
+F:\Training Stuff\Database_ASP.NET\Assignments\7\Assignment_7\Assignment_7\bin\Debug\Assignment_7.pdb
+F:\Training Stuff\Database_ASP.NET\Assignments\7\Assignment_7\Assignment_7\obj\Debug\Assignment_7.csproj.AssemblyReference.cache
+F:\Training Stuff\Database_ASP.NET\Assignments\7\Assignment_7\Assignment_7\obj\Debug\Assignment_7.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Database_ASP.NET\Assignments\7\Assignment_7\Assignment_7\obj\Debug\Assignment_7.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Database_ASP.NET\Assignments\7\Assignment_7\Assignment_7\obj\Debug\Assignment_7.exe
+F:\Training Stuff\Database_ASP.NET\Assignments\7\Assignment_7\Assignment_7\obj\Debug\Assignment_7.pdb
